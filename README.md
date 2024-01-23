@@ -1,0 +1,1 @@
+## Scraping funko.com for info on their different products
