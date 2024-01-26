@@ -168,4 +168,4 @@ cython_debug/
 *.feather
 *.arrow
 
-DS_Store/
+*/.DS_Store
